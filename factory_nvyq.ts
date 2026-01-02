@@ -1,0 +1,1 @@
+const service_nvyq = <T>(args: T): T => { return args; };
